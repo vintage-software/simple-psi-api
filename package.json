@@ -2,7 +2,7 @@
   "name": "node-api",
   "main": "server.js",
   "dependencies": {
-    "express": "4.16.4",
-    "psi": "1.0.6"
+    "express": "4.17.1",
+    "psi": "4.0.1"
   }
 }
